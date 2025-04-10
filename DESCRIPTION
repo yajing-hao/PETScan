@@ -1,0 +1,15 @@
+Package: PETScan
+Type: Package
+Title: Score-Based Genome-Wide Association Analysis
+Version: 0.1.0
+Author: Yajing Hao <yajingh@live.unc.edu>
+Maintainer: Yajing Hao <yajingh@live.unc.edu>
+Description: Score-Based Genome-Wide Association Analysis of High-Dimensional Multi-Omics Data
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    GLMMadaptive,
+    MASS,
+    parallel
+RoxygenNote: 7.3.2
